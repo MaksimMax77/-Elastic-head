@@ -3,7 +3,7 @@
 A small Unity project featuring an **elastic head** that reacts to hits. The mechanic is based on soft‑body–like physics simulation.
 
 ## 🎥 Video Demo
-[Watch Video](https://github.com/MaksimMax77/-Elastic-head/blob/main/Videos/HeadPresentation.mp4)
+[Watch Video](https://github.com/MaksimMax77/-Elastic-head/blob/main/Videos/HeadPresentation.mp4)<br>
 [Watch YouTube video](https://www.youtube.com/watch?v=wq0Qn83BVPc)
 
 ## 🚀 Features
