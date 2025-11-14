@@ -4,7 +4,7 @@ A small Unity project featuring an **elastic head** that reacts to hits. The mec
 
 ## 🎥 Video Demo
 [Watch Video](https://github.com/MaksimMax77/-Elastic-head/blob/main/Videos/HeadPresentation.mp4)
-[Watch YouTube video]https://www.youtube.com/watch?v=wq0Qn83BVPc
+[Watch YouTube video](https://www.youtube.com/watch?v=wq0Qn83BVPc)
 
 ## 🚀 Features
 - Elastic, physics‑reactive head
